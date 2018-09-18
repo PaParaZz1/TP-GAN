@@ -1,4 +1,4 @@
-#README
+# README
 
 This is a development pytorch version of TP-GAN(Two pathway GAN).
 
